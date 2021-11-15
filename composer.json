@@ -3,6 +3,6 @@
   "require": {
     "acme/logger": "*",
     "acme/mailer": "*",
-    "acme/payment-library": "*",
+    "acme/payment-library": "*"
   }
 }
