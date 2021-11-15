@@ -4,6 +4,7 @@
     "acme/logger": "*",
     "acme/mailer": "*",
     "acme/payment-library": "*",
-    "acme/cms": "*"
+    "acme/cms": "*",
+    "acme/module": "*"
   }
 }
