@@ -1,0 +1,8 @@
+{
+  "name": "acme/framework",
+  "require": {
+    "acme/logger": "*",
+    "acme/mailer": "*",
+    "acme/payment-library": "*",
+  }
+}
